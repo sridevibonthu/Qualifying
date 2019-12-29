@@ -25,6 +25,16 @@ Thanks alot for giving this opportunity to learn and explore this different kind
 * val_pose_output_acc  --  0.7927827380952381
 * val_emotion_output_acc  --  0.7053571428571429
 
+The same model with cutout returned
+
+val_gender_output_acc  --  0.8727678571428571
+val_image_quality_output_acc  --  0.5796130952380952
+val_age_output_acc  --  0.40401785714285715
+val_weight_output_acc  --  0.6179315476190477
+val_bag_output_acc  --  0.6540178571428571
+val_footwear_output_acc  --  0.6729910714285714
+val_pose_output_acc  --  0.8206845238095238
+val_emotion_output_acc  --  0.703125
 
 ## [Model 2]()
 * val_gender_output_acc  --  0.8566468253968254
