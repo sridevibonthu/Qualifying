@@ -15,7 +15,7 @@ Thanks alot for giving this opportunity to learn and explore this different kind
 
 
 
-## [Model 1]() 
+## [Model 1](https://github.com/sridevibonthu/Qualifying/blob/master/Model_with_separable_conv.ipynb) 
 * val_gender_output_acc  --  0.8504464285714286
 * val_image_quality_output_acc  --  0.5714285714285714
 * val_age_output_acc  --  0.41443452380952384
@@ -36,7 +36,7 @@ val_footwear_output_acc  --  0.6729910714285714
 val_pose_output_acc  --  0.8206845238095238
 val_emotion_output_acc  --  0.703125
 
-## [Model 2]()
+## [Model 2](https://github.com/sridevibonthu/Qualifying/blob/master/modularized.ipynb)
 * val_gender_output_acc  --  0.8566468253968254
 * val_image_quality_output_acc  --  0.5248015873015873
 * val_age_output_acc  --  0.3566468253968254
